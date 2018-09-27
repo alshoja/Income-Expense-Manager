@@ -32,8 +32,8 @@ git clone https://github.com/alshoja/Income-Expence-Manager.git
 
 [Application Demo](http://pepper.technalatus.com/)
 
-* Username :admin@admin
-* Password :admin
+* Username :alshoja@gmail.com
+* Password :alshoja
 
 
 ## Built With
