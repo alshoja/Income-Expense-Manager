@@ -25,10 +25,10 @@ git clone https://github.com/alshoja/Income-Expence-Manager.git
 
 ## Built With
 
-* [Codeignitor](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Codeignitor](https://github.com/alshoja/Codeignitor-configured) - Download Preconfigured Codeignitor from here.
 * [Bootstrap](http://getbootstrap.com/) - Frontend
-* [Javascript](https://www.javascript.com/)
-* [SQL]
+
+
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
