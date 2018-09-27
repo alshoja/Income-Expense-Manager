@@ -41,6 +41,11 @@ git clone https://github.com/alshoja/Income-Expence-Manager.git
 * Username :alshoja@gmail.com
 * Password :alshoja
 
+## Look and Feel
+
+<a target="_blank" href="http://pepper.technalatus.com"><img src="https://i.imgur.com/Tf5yEMx.jpg"/></a>
+
+
 
 ## Built With
 
@@ -69,7 +74,4 @@ Please read [CONTRIBUTING.md](https://github.com/alshoja/Income-Expence-Manager/
 
 Free to Use
 
-## Look and Feel
-
-|<a target="_blank" href="http://pepper.technalatus.com"><img src="https://i.imgur.com/Tf5yEMx.jpg"/></a>|
 
