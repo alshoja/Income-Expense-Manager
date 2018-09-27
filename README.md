@@ -69,9 +69,7 @@ Please read [CONTRIBUTING.md](https://github.com/alshoja/Income-Expence-Manager/
 
 Free to Use
 
-## Acknowledgments
+## Look and Feel
 
-*| Corporate Theme |
-|:---------------:|
-|<a target="_blank" href="http://akveo.com/ngx-admin/#/pages/dashboard?theme=corporate&utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes"><img src="https://i.imgur.com/axbJYdN.png"/></a>|
+|<a target="_blank" href="http://pepper.technalatus.com"><img src="https://i.imgur.com/Tf5yEMx.jpg"/></a>|
 
