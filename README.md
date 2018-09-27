@@ -71,5 +71,7 @@ Free to Use
 
 ## Acknowledgments
 
-* Can sugest Edits and Pull requests
+*| Corporate Theme |
+|:---------------:|
+|<a target="_blank" href="http://akveo.com/ngx-admin/#/pages/dashboard?theme=corporate&utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes"><img src="https://i.imgur.com/axbJYdN.png"/></a>|
 
