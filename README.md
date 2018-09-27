@@ -52,7 +52,8 @@ git clone https://github.com/alshoja/Income-Expence-Manager.git
 * [Codeignitor](https://github.com/alshoja/Codeignitor-configured) - Download Preconfigured Codeignitor from here.
 * [Bootstrap](http://getbootstrap.com/) - Frontend
 * [Sweet Alert](http://getbootstrap.com/)- Alerts
-*[Purple Admin Dashboard](https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template)
+* [Purple Admin Dashboard](https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template)- Dashboard
+
 
 
 
