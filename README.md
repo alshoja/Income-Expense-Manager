@@ -17,7 +17,7 @@ git clone https://github.com/alshoja/Income-Expence-Manager.git
 ```
 2.Give the baseurl in Application/config/config.php
 
-    $config['base_url'] = '';
+    $config['base_url'] = 'http://YOUR/BASE/URL';
     
 3.Update the database details in Application/config/database.php
 
