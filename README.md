@@ -27,10 +27,13 @@ git clone https://github.com/alshoja/Income-Expence-Manager.git
 	'database' => 'technely_pepper',
 
 
-## Running the tests
+## You can find the demo Here
 
 
-[Demo](http://pepper.technalatus.com/)
+[Application Demo](http://pepper.technalatus.com/)
+
+Username :admin@admin
+Password :admin
 
 
 ## Built With
