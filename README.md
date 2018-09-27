@@ -2,7 +2,7 @@
 The Project is about income expence management with minumum  using Codeignitor,it is basicaly developed for a resturant but can be customised for purposes.
 ## Getting Started
 
-The project Database is given in the root folder itself just clone the project and upload the database for production
+Project is developed for a restuarant income expence management ,after developing the application some sort of problems occured in the client side so  am giving it as a opensource project customization pull requests are welcomed.
 
 ### Prerequisites
 
