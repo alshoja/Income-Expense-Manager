@@ -1,5 +1,5 @@
 # Income Expence Manager
-The Project is about income expence management with minumum feature,it is basicaly developed for a resturant bu can be customised for purposes.
+The Project is about income expence management with minumum  using Codeignitor,it is basicaly developed for a resturant but can be customised for purposes.
 ## Getting Started
 
 The project Database is given in the root folder itself just clone the project and upload the database for production
