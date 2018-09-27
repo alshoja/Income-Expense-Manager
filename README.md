@@ -8,6 +8,12 @@ Project is developed for a restuarant income expence management ,after developin
 
 PHP 5.x higher versions
 
+### Features
+
+*Credit Management
+*Debit Management
+*Reports
+
 ### Installing
 
 1. Clone the project
@@ -40,6 +46,8 @@ git clone https://github.com/alshoja/Income-Expence-Manager.git
 
 * [Codeignitor](https://github.com/alshoja/Codeignitor-configured) - Download Preconfigured Codeignitor from here.
 * [Bootstrap](http://getbootstrap.com/) - Frontend
+* [Sweet Alert](* [Bootstrap](http://getbootstrap.com/) - Frontend)
+
 
 
 
