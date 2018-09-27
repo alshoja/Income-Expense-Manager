@@ -74,6 +74,6 @@ Please read [CONTRIBUTING.md](https://github.com/alshoja/Income-Expence-Manager/
 
 ## License
 
-Free to Use
+Free to Use, The actual licence is under [Technalatus](http://technalatus.com/)
 
 
