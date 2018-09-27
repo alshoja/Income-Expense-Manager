@@ -10,9 +10,9 @@ PHP 5.x higher versions
 
 ### Features
 
-*Credit Management
-*Debit Management
-*Reports
+* Credit Management
+* Debit Management
+* Reports
 
 ### Installing
 
