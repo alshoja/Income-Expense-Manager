@@ -15,7 +15,17 @@ PHP 5.x higher versions
 ```
 git clone https://github.com/alshoja/Income-Expence-Manager.git
 ```
-2.Upload the database as you wish
+2.Give the baseurl in Application/config/config.php
+
+    $config['base_url'] = '';
+    
+3.Update the database details in Application/config/database.php
+
+	'hostname' => 'YOUR_HOST',
+	'username' => 'YOUR_USERNAME',
+	'password' => 'YOUR_PASSWORD',
+	'database' => 'technely_pepper',
+
 
 ## Running the tests
 
@@ -30,7 +40,7 @@ git clone https://github.com/alshoja/Income-Expence-Manager.git
 
 
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/alshoja/Income-Expence-Manager/blob/master/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
