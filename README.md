@@ -1,4 +1,4 @@
-https://travis-ci.com/alshoja/Income-Expense-Manager.svg?branch=master
+<a target="_blank" href="http://pepper.technalatus.com"><img src="https://travis-ci.com/alshoja/Income-Expense-Manager.svg?branch=master"/></a>
 # Income Expense Manager
 The Project is about income expense management with minumum  using Codeignitor,it is basicaly developed for a resturant but can be customized for purposes.
 ## Getting Started
