@@ -67,7 +67,7 @@ Please read [CONTRIBUTING.md](https://github.com/alshoja/Income-Expence-Manager/
 * **Alshoja M ikbal** - *Initial work* - [Alshoja ](https://github.com/alshoja)
 
 ## Donations
-[Donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alshoja%40gmail%2ecom&lc=US&item_name=Technalatus&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
+[Donations](https://www.paypal.me/alshoja)
 
 
 
