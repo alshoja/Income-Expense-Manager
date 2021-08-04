@@ -70,8 +70,4 @@ class Home_model extends CI_Model{
            $query= $this->db->query("SELECT COUNT('id') as COUNT FROM customers");
            return $query;
     }
-    
-    
-    
-    
 }
